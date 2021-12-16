@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi I'm Shun Yamashita <img width="40" src="https://user-images.githubusercontent.com/52367439/146315735-b13ef3ae-ab1f-4496-b609-0c4438774445.png"/>
+<p align="left"> 
+  <a href="http://qiita.com/SY-BETA">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/SY-BETA/posts.svg" />
+  </a>
+  <//qiita.com/SY-BETA">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/SY-BETA/contributions.svg" />
+  </a>
+</p>
 
-<!--
-**ymshun/ymshun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymshun&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
